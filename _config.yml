@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : ""Mobina Seifi"
+title                    : "Mobina Seifi"
 title_separator          : "-"
 name                     : "Mobina Seifi" 
 description              : "Welcome to my web site."
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Mobina Seifi"
-  avatar           : "/assets/images/avatar.jpg"
+  avatar           : /assets/images/avatar.jpg
   bio              : 
   bio              :
   location         : "تهران"
@@ -139,7 +139,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Telegram"
       icon: "fab fa-telegram"
-      url: "http://t.me/Sauleh"
+      # url: "http://t.me/Sauleh"
 
 # Site Footer
 footer:
