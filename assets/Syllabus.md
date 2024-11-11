@@ -8,11 +8,9 @@ modified: 11-11-2024
 comments: true
 ---
 
-|Saturday |------|Computer Basics and Programming|------|           Phisics             |------|  English  |------|Persian literatu|------|
-|Sunday   |------|       Computer workshop       |------|Computer Basics and Programming|------|Mathematics|------|                |------|
-|Sunday   |------|       Computer workshop       |------|Computer Basics and Programming|------|Mathematics|------|                |------|
-|Monday   |------|    Acquaintance with industry |------|           Phisics             |------|  English  |------|                |------|
-|Tuesday  |------|       Computer workshop       |------|Computer Basics and Programming|------|Mathematics|------|Persian literatu|------|
-|Wednesday|------|                               |------|                               |------|           |------|                |------|
-|Thursday |------|                               |------|                               |------|           |------|                |------|
-|Friday   |------|                               |------|                               |------|           |------|                |------|
+| Saturday | Sunday | Monday | Tuesday | Wednesday | Thirsday | Friday |
+| - | - | - | - | - | - | - |
+| Computer basic and programming | Computer workshop | Acquaintance with the industry | Computer workshop |
+| Phisics | Computer basic and programming | Phisics | Computer basic and programming |
+| English | Mathematics | English | Mathematics |
+| Persion | | | Persion |
