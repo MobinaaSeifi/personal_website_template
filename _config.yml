@@ -109,7 +109,8 @@ analytics:
 author:
   name             : "Mobina Seifi"
   avatar           : "/assets/images/avatar.jpg"
-  bio              :!با من از ماه و ستاره ها بگو
+  bio              : 
+  bio              :
   location         : "تهران"
   email            : mobinaaseifi@gmail.com
   twitter: 
