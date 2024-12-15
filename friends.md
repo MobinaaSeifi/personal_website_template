@@ -9,9 +9,9 @@ comments: true
 ---
 
 # هم کلاسی ها
-عالیه
-[مبینا](https://github.com/mobina-hsz)
-مانیا
-نجمه
-ستایش
+#### عالیه
+#### [مبینا](https://github.com/mobina-hsz)
+#### مانیا
+#### نجمه
+#### ستایش
 
