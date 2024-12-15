@@ -116,11 +116,11 @@ author:
   twitter: 
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: Mobinaa Seifi
-  instagram: _mobinaseifi_
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+  #github: Mobinaa Seifi
+  #instagram: _mobinaseifi_
+  #links:
+    #- label: "Email"
+      #icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
