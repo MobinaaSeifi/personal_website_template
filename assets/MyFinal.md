@@ -9,8 +9,8 @@ comments: true
 
 Exam day shots
 MyFinal:
-- url: /assets/images/MyFinal.jpg
-    image_path: /assets/images/MyFinal.jpg
+- url: /assets/images/MyFinal.png
+    image_path: /assets/images/MyFinal.png
     alt: "placeholder image MyFinal"
     title: "Image MyFinal title caption"  
 ---
