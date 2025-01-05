@@ -18,5 +18,5 @@ gallery:
 
 {% include gallery caption="the picture" %}
 
-- [sample item](https://fccourse.liara.run/)
+- [sample item 1](https://fccourse.liara.run/)
 - sample item 2
