@@ -15,7 +15,6 @@ gallery:
 
 # Exam day shots
 
-![Image MyFinal title caption](/assets/images/MyFinal.png)
 
 {% include gallery caption="the picture" %}
 
