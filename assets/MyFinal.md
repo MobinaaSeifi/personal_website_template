@@ -13,11 +13,11 @@ gallery:
     title: "Image MyFinal title caption"
 ---
 
-{% include gallery caption="the picture" %}
-
 # Exam day shots
 
-![Image MyFinal title caption](/assets/images/MyFinal.png) 
+![Image MyFinal title caption](/assets/images/MyFinal.png)
 
-- [sample item](https://github.com/mobina-hsz)
+{% include gallery caption="the picture" %}
+
+- [sample item](https://fccourse.liara.run/)
 - sample item 2
