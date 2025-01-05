@@ -13,6 +13,7 @@ MyFinal:
   image_path: /assets/images/MyFinal.png
   alt: "placeholder image MyFinal"
   title: "Image MyFinal title caption"
+{% include MyFinal caption="the picture" %}
 ---
 
 # Exam day shots
