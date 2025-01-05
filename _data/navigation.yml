@@ -10,7 +10,8 @@ main:
     url: /khatere/
   - title: "Syllabus"
     url: /Syllabus/
-  # - title: "About"
+  - title: "MyFinal"
+    url: /MyFinal/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
