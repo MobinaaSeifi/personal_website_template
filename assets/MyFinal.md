@@ -6,11 +6,15 @@ title: MyFinal
 # tags: [Elina]
 modified: 11-11-2024
 comments: true
+---
 
-Exam day shots
+# Exam day shots
+
 MyFinal:
 - url: /assets/images/MyFinal.png
-    image_path: /assets/images/MyFinal.png
-    alt: "placeholder image MyFinal"
-    title: "Image MyFinal title caption"  
----
+  image_path: /assets/images/MyFinal.png
+  alt: "placeholder image MyFinal"
+  title: "Image MyFinal title caption"
+
+- sample item 1
+- sample item 2
