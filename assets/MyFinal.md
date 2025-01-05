@@ -7,7 +7,7 @@ title: MyFinal
 modified: 11-11-2024
 comments: true
 
-<h1>Exam day shots</h1>
+Exam day shots
 MyFinal:
 - url: /assets/images/MyFinal.jpg
     image_path: /assets/images/MyFinal.jpg
