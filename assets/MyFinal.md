@@ -17,5 +17,7 @@ gallery:
 
 # Exam day shots
 
-- ![sample item 1](fccourse.liara.run)
+![Image MyFinal title caption](/assets/images/MyFinal.png) 
+
+- [sample item](https://github.com/mobina-hsz)
 - sample item 2
