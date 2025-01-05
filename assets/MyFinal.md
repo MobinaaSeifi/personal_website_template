@@ -8,4 +8,4 @@ modified: 11-11-2024
 comments: true
 ---
 
-# فعلا چیزی یادم نمیاد
+# Exam day shots 
