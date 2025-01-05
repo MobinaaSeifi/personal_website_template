@@ -17,5 +17,5 @@ gallery:
 
 # Exam day shots
 
-- sample item 1
+- ![sample item 1](fccourse.liara.run)
 - sample item 2
